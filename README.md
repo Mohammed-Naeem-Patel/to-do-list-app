@@ -29,11 +29,11 @@ This project helps users to manage their daily tasks easily with features like a
 
 ### ☀️ Light Theme
 
-(Add screenshot here later)
+![Light Theme](images/Screenshot 2026-05-28 204203.png)
 
 ### 🌙 Dark Theme
 
-(Add screenshot here later)
+![Dark Theme](images/Screenshot 2026-05-28 204208.png)
 
 ---
 
