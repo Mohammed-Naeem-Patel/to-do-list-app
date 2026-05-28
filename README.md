@@ -29,11 +29,13 @@ This project helps users to manage their daily tasks easily with features like a
 
 ### ☀️ Light Theme
 
-![Light Theme](images/Screenshot 2026-05-28 204203.png)
+<img width="1920" height="1080" alt="Screenshot 2026-05-28 204208" src="https://github.com/user-attachments/assets/0a99531f-d12a-49b8-8361-ddfca50d25fa" />
+
 
 ### 🌙 Dark Theme
 
-![Dark Theme](images/Screenshot 2026-05-28 204208.png)
+<img width="1920" height="1080" alt="Screenshot 2026-05-28 204203" src="https://github.com/user-attachments/assets/0ebd50a0-190c-402c-9986-0cbd1dc2d684" />
+
 
 ---
 
