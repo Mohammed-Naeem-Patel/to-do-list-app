@@ -23,6 +23,8 @@
     display: flex;
     align-items: center;
     margin-bottom: 20px;
+    flex-wrap: wrap;
+    gap: 10px;
 }
 .todo-app h2 img{
     width:32.5px;
@@ -66,7 +68,7 @@ input{
 .row button{
     border: none;
     outline: none;
-    padding: 16px 50px;
+    padding: 16px 30px;
     background: #ff5945;
     color:#fff;
     font-size: 16px;
@@ -168,4 +170,20 @@ ul li span:hover{
 .dark-theme .edit-btn:hover,
 .dark-theme ul li span:hover{
     background:#475569;
+}
+
+@media(max-width:480px){
+
+    .todo-app{
+        padding:30px 20px 50px;
+    }
+
+    .row button{
+        padding:16px 22px;
+        font-size:14px;
+    }
+
+    .todo-app h2{
+        font-size:28px;
+    }
 }
